@@ -18,7 +18,7 @@ This is a complete responsive modern website made with ReactJS and React Router.
 - React Router
 - Tailwind CSS
 
-## How to clone this site
+## How to clone this repository
 
 ```
     git clone https://github.com/Suplob/learn-programming.git
